@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#dd374c</color>
+    <color name="status_bar">#d42e43</color>
+    <color name="colorAccent">#EC407A</color>
+    <color name="error_message_shape_color">#ee3c5a</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#444444</color>
+    <color name="smb_grey_54">#212121</color>
+    <color name="red_color">#d42e43</color>
+    <color name="smb_text_dark">#828282</color>
+    <color name="blue_color">#384861</color>
+    <color name="black_text">#000000</color>
+    <color name="smb_white_70">#B2B2B2</color>
+    <color name="smd_action">#9E9E9E</color>
+</resources>

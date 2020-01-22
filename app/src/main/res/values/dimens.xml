@@ -1,0 +1,12 @@
+<resources>
+    <dimen name="block_padding">8dp</dimen>
+    <dimen name="block_line_spacing_margin">12dp</dimen>
+    <dimen name="dailog_bottom_elements">20dp</dimen>
+    <dimen name="short_margin_between_elements">16dp</dimen>
+    <dimen name="long_margin_between_elements">24dp</dimen>
+    <dimen name="dialog_padding_horizontal">8dp</dimen>
+    <dimen name="dialog_padding_vertical">16dp</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+</resources>
